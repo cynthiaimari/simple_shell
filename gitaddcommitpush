@@ -1,0 +1,2 @@
+#!/bin/bash
+ls . | git add . | git commit -m  'simple_shellImari' |  git push
