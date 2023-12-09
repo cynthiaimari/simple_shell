@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . | git add . | git commit -m  'simple_shellImari' |  git push
+ls . | git add . | git commit -m  'simple_shellGeorge' |  git push
